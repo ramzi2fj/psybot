@@ -8,8 +8,8 @@ bot = Client(
     config_file="config.ini"
 )
 
-# Channel id or group id to use as database. Format: dbs = int(-1002003004005)
-aid = int()
+
+aid = int(-1001799100777)
 gem = int()
 
 db0 = int()
